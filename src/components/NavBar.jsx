@@ -11,7 +11,7 @@ const Navbar = () => {
       <Toolbar>
         {/* KILL THE NAVBAR */}
         <Link to="/">
-          <img src="./src/assets/logo.png" alt="Logo" style={{ height: 100 }} />
+          <img src="./src/assets/Logo.png" alt="Logo" style={{ height: 100 }} />
         </Link>
 
         {/* All Recipes link */}
