@@ -12,7 +12,7 @@ const Footer = () => {
         position: 'relative', // For the background image
         mt: 10,
         width: '100%',
-        background: `url('src/assets/Footerbg.png')`,
+        background: `url('https://ibb.co/QPhCgcJ')`,
         backgroundSize: 'cover',
       }}
     >

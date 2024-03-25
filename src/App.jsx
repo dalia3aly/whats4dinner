@@ -21,7 +21,7 @@ function App() {
           
       <div>
         <Link to="/">
-          <img src="./src/assets/Logo.png" alt="Logo" style={{ height: 350 }} />
+          <img src="https://i.pinimg.com/originals/9e/68/6f/9e686ff5abd85987d374a11dfa5e28ec.png" alt="Logo" style={{ height: 350 }} />
         </Link>
       </div>
       <ResponsiveDrawer />  
